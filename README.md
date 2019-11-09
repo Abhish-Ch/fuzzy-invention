@@ -1,2 +1,2 @@
-# fuzzy-invention
+# fuzzy-inventor
 A Mechanical Engineer 
